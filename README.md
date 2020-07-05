@@ -17,6 +17,7 @@ n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasa
 Ten real-valued features are computed for each cell nucleus:
 
 a) radius (mean of distances from center to points on the perimeter)
+
 b) texture (standard deviation of gray-scale values)
 c) perimeter
 d) area
