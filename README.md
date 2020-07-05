@@ -1,7 +1,8 @@
 # Breast_cancer_detection
 
 This machine learning model is made in other to help professionals in the medical field reduce the amount of work they have to do when attending to patients and the stress that comes with it. 
-This machine learning model can be used by non medical practitioner to detect breast cancer for thousands of patients at once, this helps provide more jobs and some level of support for doctors.
+This machine learning model can be used by non medical practitioner to detect breast cancer for thousands of patients at once without them having visit the hospital. Non medical practitioners can be trained to carry out a digitized image of a fine needle aspirate (FNA), collect the needed data and run it through this model to detect breast cancer quickly  in a safe and secure environment.
+This model of operations helps provide more jobs and some level of support for health care industry.
 Other models can be created too to help doctors diagnose other aliments like malaria, typhoid and more.
 
 ## Dataset
